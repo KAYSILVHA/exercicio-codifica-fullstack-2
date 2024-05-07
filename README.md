@@ -62,3 +62,99 @@ vida um fumante perderá e exiba o total em dias.
 
 <hr>
 <br>
+
+
+<p>
+
+
+## ⏩ Calcular Velocidadde
+
+Escreva um programa que pergunte a velocidade de um carro. Caso ultrapasse 80 Km
+h
+-1
+, exiba uma mensagem dizendo que o usuário foi multado. Nesse caso, exiba o valor da
+multa, cobrando R$ 5,00 por cada Km acima da velocidade permitida.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./2/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## 🛣️ Calcular Distância
+
+Faça um algoritmo que pergunte a distância que um passageiro deseja percorrer em
+Km. Calcule o preço da passagem, cobrando R$ 0.50 por Km para viagens até 200 Km e
+R$ 0.45 para viagens mais longas.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./3/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## 🔼 Triângulo
+
+Crie um programa que leia o tamanho de três segmentos de reta. Analise seus
+comprimentos e diga se é possível formar um triângulo com essas retas.
+Matematicamente, para três segmentos formarem um triângulo, o comprimento de cada
+lado deve ser menor que a soma dos outros dois.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./4/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## 🪨🧻✂️ Jo-Ken-Po
+
+Crie um jogo de JoKenPo (Pedra-Papel-Tesoura).
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./5/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## 🔢 Adivinhe o número
+
+Crie um jogo onde o computador vai sortear um número entre 1 e 5. O jogador vai
+tentar descobrir qual foi o valor sorteado.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./6/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
