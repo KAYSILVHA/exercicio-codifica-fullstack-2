@@ -158,3 +158,102 @@ tentar descobrir qual foi o valor sorteado.
 
 <hr>
 <br>
+
+<p>
+
+
+## 🚗 Aluguel de Carros
+
+Uma empresa de aluguel de carros precisa cobrar pelos seus serviços. O aluguel de um
+carro popular custa R$ 90,00 por dia e um carro de luxo custa R$ 150,00. Além disso, o
+cliente paga por Km percorrido. Faça um programa que leia o tipo de carro alugado
+(popular ou luxo), quantos dias de aluguel e quantos Km foram percorridos. No final,
+mostre o preço a ser pago de acordo com os dados a seguir:
+```
+Carros populares
+  - Até 100 Km percorridos: R$ 0,20 por Km
+  - Acima de 100 Km percorridos: R$ 0,10 por Km
+Carros de luxo
+  - Até 200 Km percorridos: R$ 0,30 por Km
+  - Acima de 200 Km percorridos: R$ 0,25 por Km
+```
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./7/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## 🏃🏻‍♀️ Atividades Físicas
+
+Um programa de vida saudável quer dar pontos por atividades físicas realizadas que
+podem ser trocados por dinheiro. Cada hora de atividade física no mês vale pontos. O
+sistema funciona assim:
+```
+  - até 10 h de atividade no mês: ganha 2 pontos por hora
+  - de 10 h até 20 h de atividade no mês: ganha 5 pontos por hora
+  - acima de 20 h de atividade no mês: ganha 10 pontos por hora
+  - A cada ponto ganho, o cliente fatura R$ 0,05 (5 centavos)
+```
+Faça um programa que leia quantas horas de atividade uma pessoa teve por mês.
+Calcule e mostre quantos pontos ela teve e quanto dinheiro ela conseguiu ganhar.
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./8/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## 🤑 Valor Total pago
+
+Desenvolva um aplicativo que leia o salário e o sexo de vários funcionários. No final,
+mostre o total de salário pago aos homens e o total pago às mulheres. O programa vai
+perguntar ao usuário se ele quer continuar ou não sempre que ler os dados de um
+funcionário.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./9/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## ➰ Faça Enquanto
+
+Crie um programa usando a estrutura “faça enquanto” que leia vários números. A
+cada laço, pergunte se o usuário quer continuar ou não. No final, mostre na tela:
+```
+  a) O somatório entre todos os valores;
+  b) Qual foi o menor valor digitado;
+  c) A média entre todos os valores;
+  d) Quantos valores são pares.
+```
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./10/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
