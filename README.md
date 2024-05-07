@@ -2,7 +2,7 @@
 <h1 align="center">Exercícios da Formação Fullstack Jr</h1>
 
 <p align="center">
-Segunda lista de Exercícios propostos pela formação Fullstack oferecida pela <a href="https://www.codificaedu.com.br/" target="_blank">Codifica Edu</a> e <a href="https://www.maisprati.com.br/" target="_blank">+praTI<a/>
+Segunda lista de Exercícios proposta pela formação Fullstack oferecida pela <a href="https://www.codificaedu.com.br/" target="_blank">Codifica Edu</a> e <a href="https://www.maisprati.com.br/" target="_blank">+praTI<a/>
 </p>
 
 <p align="center">
