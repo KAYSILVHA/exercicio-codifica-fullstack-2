@@ -283,6 +283,9 @@ valores da sequência.
 ## ▪◼⬜ Sequência de Fibonacci
 
 Faça um programa que mostre os 10 primeiros elementos da Sequência de Fibonacci.
+```
+  Ex.: 1, 1, 2, 3, 5, 8, 13, 21.
+```
 
 </p>
 
@@ -297,7 +300,7 @@ Faça um programa que mostre os 10 primeiros elementos da Sequência de Fibonacc
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## ⬜◼▪ Sequência de Fibonacci
 
 Crie um programa que preencha automaticamente (usando lógica, não apenas
 atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
@@ -316,11 +319,11 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## 👥 Guardar Nomes
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Faça um programa que leia 7 nomes de pessoas e guarde-os em um vetor. No final,
+mostre uma listagem com todos os nomes informados, na ordem inversa daquela em
+que eles foram informados.
 
 </p>
 
@@ -335,11 +338,11 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## 🗄 Guardar Números
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Desenvolva um programa que leia 10 números inteiros e guarde-os em um vetor. No
+final, mostre quais são os números pares que foram digitados e em que posições eles
+estão armazenados.
 
 </p>
 
@@ -354,11 +357,11 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## 🔢 Números Aleatórios
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Crie uma lógica que preencha um vetor de 20 posições com números aleatórios
+(entre 0 e 99) gerados pelo computador. Logo em seguida, mostre os números gerados e
+depois coloque o vetor em ordem crescente, mostrando no final os valores ordenados.
 
 </p>
 
@@ -373,11 +376,11 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## 🧒🚸 Menores de Idade
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Crie um programa que leia o nome e a idade de 9 pessoas e guarde esses valores em
+dois vetores, em posições relacionadas. No final, mostre uma listagem contendo apenas
+os dados das pessoas menores de idade.
 
 </p>
 
@@ -392,11 +395,10 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## 👤 Registro
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Crie um registro com o nome do funcionário, cargo e salário. Leia este registro para
+um funcionário e ao final escreva o conteúdo do registro.
 
 </p>
 
@@ -412,11 +414,10 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## ⏰ Horários
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Escrever um programa para ler 5 horários. Validar cada horário fornecendo através de
+repetição. Escrever cada um deles no formato HH.MM.SS.
 
 </p>
 
@@ -432,11 +433,21 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## 💹 Pagamento
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Uma indústria faz a folha mensal de pagamentos de seus 80 empregados baseada
+no seguinte: existe uma tabela com os dados de cada funcionalidade: matrícula, nome e
+salário bruto. Escreva um programa que leia e processe a tabela e emita (escreva na
+tela), cada funcionário, seu contracheque, cujo formato é dado a seguir:
+```
+  Matrícula:
+  Nome:
+  Salário bruto:
+  Dedução INSS:
+  Salário líquido:
+```
+(Dicas: desconto de 12%, salário líquido é a diferença entre salário bruto e a redução do
+INSS).
 
 </p>
 
@@ -452,11 +463,11 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## ⚖ Peso ideal
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Faça uma função que recebe, por parâmetro, a altura (alt) e o sexo de uma pessoa e
+retorna o seu peso ideal. Para homens, calcular o peso ideal usando a fórmula: peso ideal
+= 72.7 x alt - 58 e, para mulheres, peso ideal = 62.1 x alt - 44.7.
 
 </p>
 
@@ -471,11 +482,14 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## 💸 Média de Salário
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+A prefeitura de uma cidade fez uma pesquisa entre os seus habitantes, coletando
+dados sobre o salário e número de filhos. Faça uma função que leia esses dados para um
+número não determinado de pessoas e retorne a média de salário da população, a
+
+média do número de filhos, o maior salário e o percentual de pessoas com salário até R$
+350,00.
 
 </p>
 
@@ -490,11 +504,10 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## 🖨 Criar e Imprimir
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Criar e imprimir a matriz identidade MI[1..7,1..7] em que todos os elementos da
+diagonal principal são iguais a 1 e os demais são nulos.
 
 </p>
 
@@ -509,11 +522,10 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## ▪◾◼⬛ Criar vetor
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Dada uma matriz M[1..6,1..8], criar um vetor C que contenha, em cada posição, a
+quantidade de elementos negativos da linha correspondente de M.
 
 </p>
 
@@ -529,11 +541,10 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## ⬛ ➕⬜ Soma de Colunas
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Faça um algoritmo que leia uma matriz de 15 X 20 de números reais e mostre a soma
+de cada coluna separadamente.
 
 </p>
 
@@ -548,11 +559,10 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## ❗❕ Matriz Produto
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Dadas duas matrizes numéricas A[1..3,1..5] e B[1..3,1..5], calcular a matriz produto
+P[1..3,1..5].
 
 </p>
 
@@ -567,11 +577,11 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## 🙄 Leitura Matriz
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Elaborar um algoritmo que leia uma matriz M(6,6) e um valor A. Após a leitura,
+multiplicar a matriz M pelo valor A e colocar os valores da matriz multiplicados por A em
+um vetor V(36). Escrever o vetor V no final.
 
 </p>
 
@@ -587,11 +597,14 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## 🔷🔹 Resultado pedido
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Fazer um algoritmo para receber uma matriz 10 x 10 e devolver o resultado pedido no
+item:
+```
+ a) a soma dos elementos acima da diagonal principal;
+  b) a soma dos elementos abaixo da diagonal principal;
+```
 
 </p>
 
@@ -606,11 +619,16 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## ➕➕ Soma de Matriz
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Escreva um algoritmo que leia uma matriz M(5,5) e calcule as somas:
+```
+  a) da linha 4 de M;
+  b) da coluna 2 de M;
+  c) da diagonal principal;
+  d) todos os elementos da matriz M.
+```
+Escrever essas somas e a matriz.
 
 </p>
 
@@ -625,11 +643,11 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## ❎ Matriz
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Escrever um algoritmo que lê uma matriz M(5,5) e cria 2 vetores SL(5) e SC(5) que
+contenham, respectivamente, as somas das linhas e das colunas de M. Escrever a matriz
+e os vetores criados.
 
 </p>
 
@@ -644,11 +662,11 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## 🔠 Matriz V 30 x 30 de inteiros
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Escreva um algoritmo que leia um número inteiro A e uma matriz V 30 x 30 de inteiros.
+Conte quantos valores iguais a A estão na matriz. Crie, a seguir, uma matriz X contendo
+todos os elementos de V diferentes de A. Mostre os resultados.
 
 </p>
 
@@ -664,11 +682,11 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## 🔠 Matriz 12 X 13
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Escrever um algoritmo que lê uma matriz M(12,13) e divida todos os 13 elementos de
+cada uma das 12 linhas de M pelo maior elemento em módulo daquela linha. Escrever a
+matriz lida e a modificada.
 
 </p>
 
@@ -685,11 +703,10 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## 🔠 Matriz 3 X 3
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Faça um algoritmo que leia uma matriz 3 x 3 e após a leitura, multiplique os
+elementos da diagonal principal com a média dos elementos da diagonal secundária.
 
 </p>
 
@@ -705,11 +722,11 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## 🔠 Matriz 50 X 50
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Faça um algoritmo que leia uma matriz 50 x 50 de números reais. A seguir, multiplique
+cada linha pelo elemento da diagonal principal daquela linha. Mostre a matriz após as
+multiplicações.
 
 </p>
 
@@ -724,11 +741,12 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## ⏬⏫ Par ou Ímpar?
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Elaborar um algoritmo que leia um conjunto de 30 valores e os coloca em 2 vetores
+conforme forem pares ou ímpares. O tamanho do vetor é de 5 posições. Se algum vetor
+estiver cheio, escrevê-lo. Terminada a leitura, escrever o conteúdo dos dois vetores. Cada
+vetor pode ser preenchido quantas vezes forem necessárias.
 
 </p>
 
@@ -743,11 +761,14 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## ⚽ Loteria esportiva
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Escreva um algoritmo que leia um vetor de 13 elementos inteiros, que é o Gabarito de
+um teste da loteria esportiva. Leia, a seguir, para cada um dos 100 apostadores, o número
+do seu cartão e um vetor de Respostas de 13 posições. Verifique para cada apostador o
+número de acertos, comparando o vetor de Gabarito com o vetor de Respostas. Escreva
+o número do apostador e o número de acertos. Se o apostador tiver 13 acertos, mostrar a
+mensagem "Parabéns, tu foi o GANHADOR".
 
 </p>
 
@@ -763,11 +784,13 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## ✔❌ Aprovado ou Reprovado?
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Escreva um algoritmo que leia um vetor G de 20 elementos caractere que representa
+o gabarito de uma prova. A seguir, para cada um dos 50 alunos da turma, leia o vetor de
+respostas (R) do aluno e conte o número de acertos. Mostre o número de acertos do
+aluno e uma mensagem “APROVADO” se a quantidade de acertos for maior ou igual a 12;
+e mostre uma mensagem de “REPROVADO”, caso contrário.
 
 </p>
 
@@ -783,11 +806,18 @@ da sequência de Fibonacci.
 <p>
 
 
-## ▪◼⬜ Sequência de Fibonacci
+## ➕ Operações
 
-Crie um programa que preencha automaticamente (usando lógica, não apenas
-atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
-da sequência de Fibonacci.
+Elabore um algoritmo que leia um vetor de 6 posições e após sua leitura leia outra
+variável identificadora que calcule a operação conforme a informação contida nesta
+variável:
+```
+  1- soma dos elementos;
+  2- produto dos elementos;
+  3- média dos elementos;
+  4- ordene os elementos em ordem crescente;
+  5- mostre o vetor.
+```
 
 </p>
 
