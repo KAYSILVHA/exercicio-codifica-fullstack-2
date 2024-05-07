@@ -56,7 +56,7 @@ vida um fumante perderá e exiba o total em dias.
 </p>
 
 <p>
-<strong>RESPOSTA: <a href="">CLIQUE AQUI!</a></strong>
+<strong>RESPOSTA: <a href="./1/script.js">CLIQUE AQUI!</a></strong>
 </p>
 
 
