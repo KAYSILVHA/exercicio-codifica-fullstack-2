@@ -257,3 +257,816 @@ cada laço, pergunte se o usuário quer continuar ou não. No final, mostre na t
 
 <hr>
 <br>
+
+<p>
+
+
+## ❎ Progressão Aritmética
+
+Desenvolva um programa que leia o primeiro termo e a razão de uma PA (Progressão
+Aritmética), mostrando na tela os 10 primeiros elementos da PA e a soma entre todos os
+valores da sequência.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./11/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Faça um programa que mostre os 10 primeiros elementos da Sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./12/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./13/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./14/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./15/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./16/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./17/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./18/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./19/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./20/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./21/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./22/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./23/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./24/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./25/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./26/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./27/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./28/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./29/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./30/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./31/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./32/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./33/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./34/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./35/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./36/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./37/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## ▪◼⬜ Sequência de Fibonacci
+
+Crie um programa que preencha automaticamente (usando lógica, não apenas
+atribuindo diretamente) um vetor numérico com 15 posições com os primeiros elementos
+da sequência de Fibonacci.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./38/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## 💯 Posições
+
+Faça um algoritmo que leia um vetor (A) de 100 posições. Em seguida, compacte o
+vetor, retirando os valores nulos e negativos. Coloque o resultado no vetor B.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./39/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## 💲 Loto
+
+Faça um algoritmo que leia um vetor de 5 elementos inteiros, correspondentes ao
+resultado oficial da Loto. A seguir, leia 50 conjuntos de vetores (com 5 elementos inteiros
+cada), representando as apostas feitas. Compare os números das apostas com o
+resultado oficial e mostre uma mensagem ("Ganhador") se todos os números
+corresponderem ao resultado oficial. (Observação: não é necessário procurar por ternos
+e quadras, apenas por quinas.)
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./40/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## 🙋‍♀️ Nome e Idade
+
+Dado o objeto pessoa com propriedades nome e idade, acesse e imprima o valor de
+idade. Adicione uma nova propriedade chamada email ao objeto pessoa que já possui
+nome e idade.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./41/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## 👀 Procurando por arrays
+
+Crie um objeto chamado dados que contém várias propriedades, incluindo números,
+strings e arrays. Escreva uma função que retorne um novo objeto apenas com as
+propriedades que são arrays.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./42/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## 🟥🟧🟨 Precedência
+
+Dado dois objetos, obj1 e obj2, escreva uma função que crie um novo objeto
+combinando as propriedades de ambos, onde as propriedades de obj2 têm precedência
+sobre as do obj1 em caso de conflitos.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./43/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## 🧷 Strings
+
+Escreva uma função que conte quantas propriedades do tipo string existem em um
+objeto e retorne esse número.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./44/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## 📂 Array de strings
+
+Dado um array de strings, crie um objeto onde cada string é uma chave, e seu valor é
+o número de vezes que a string aparece no array.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./45/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## ⬜ Array de objetos
+
+Suponha que você tem um array de objetos onde cada objeto representa uma venda
+com vendedor e valor. Escreva uma função que retorne um objeto que sumarize o total
+de vendas por vendedor.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./46/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+
+## 📝 Objeto
+
+Crie uma função que transforme um objeto de entrada aplicando uma função
+fornecida a cada uma das propriedades do objeto, retornando um novo objeto com os
+resultados.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./47/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## 🏬 Inventário das Lojas
+
+Você recebe dois objetos que representam o inventário de duas lojas diferentes:
+inventarioLojaA e inventarioLojaB. Cada chave é um item, e o valor é a quantidade desse
+item em estoque. Escreva uma função que combine os inventários em um único objeto.
+Se um item aparecer em ambas as lojas, some as quantidades.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./48/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+## 💰 Transações Financeiras
+
+Você recebe um array de objetos representando transações financeiras. Cada
+transação possui id, valor, data, e categoria. Escreva uma função que retorne um objeto
+onde as chaves são as categorias, e os valores são arrays de transações pertencentes a
+essa categoria. Adicionalmente, inclua um subtotal de valores por categoria.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./49/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+
+<p>
+
+
+##  🏨 Reserva de Hotéis
+
+Desenvolva um pequeno sistema de reserva de hotéis usando JavaScript. O sistema
+deverá ser capaz de interagir com o usuário através do console do navegador e manter
+um registro das reservas e hotéis disponíveis. Utilize objetos e arrays para gerenciar as
+informações. Não é necessário interface gráfica, apenas funcionalidade lógica.
+```
+  1. Estrutura de Dados:
+      ○ Hotel: Cada hotel deve ser um objeto com propriedades para id, nome,
+      cidade, quartos totais e quartos disponiveis.
+      ○ Reservas: Cada reserva deve ser um objeto contendo idReserva, idHotel, e
+      nomeCliente.
+
+  2. Funcionalidades:
+    ○ Adicionar hotéis: Permitir que o usuário adicione novos hotéis ao sistema.
+    ○ Buscar hotéis por cidade: Permitir que o usuário liste todos os hotéis
+    disponíveis em uma cidade específica.
+    ○ Fazer reserva: Permitir que um usuário faça uma reserva em um hotel. Isso
+    deve diminuir o número de quartos disponiveis do hotel.
+    ○ Cancelar reserva: Permitir que um usuário cancele uma reserva. Isso deve
+    aumentar o número de quartos disponiveis no hotel correspondente.
+    ○ Listar reservas: Mostrar todas as reservas, incluindo detalhes do hotel e do
+    cliente.
+
+  3. Regras de Negócio:
+    ○ Um hotel só pode aceitar reservas se houver quartos disponíveis.
+    ○ As reservas devem ser identificadas por um ID único e associadas a um
+    único hotel.
+
+  4. Desafios Adicionais (Opcionais):
+    ○ Implementar uma função de check-in e check-out que atualize a
+    disponibilidade de quartos.
+    ○ Gerar relatórios de ocupação para um hotel.
+    ○ Permitir que o usuário avalie o hotel após a estadia, e armazenar essas
+    avaliações dentro do objeto do hotel.
+```
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./50/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
