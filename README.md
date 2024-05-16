@@ -27,6 +27,7 @@ Segunda lista de Exercícios proposta pela formação Fullstack oferecida pela <
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - JavaScript
+- HTML
 - Node
 - Git e Github
 </p>
