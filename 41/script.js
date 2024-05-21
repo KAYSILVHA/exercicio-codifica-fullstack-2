@@ -3,3 +3,14 @@
     idade. Adicione uma nova propriedade chamada email ao objeto pessoa que já possui
     nome e idade.
 */
+
+let pessoa = {
+    nome: "João",
+    idade: 30
+};
+
+console.log("Idade da pessoa:", pessoa.idade);
+
+pessoa.email = "joao@example.com";
+
+console.log("Objeto pessoa com email:", pessoa);

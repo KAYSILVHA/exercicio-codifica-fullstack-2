@@ -6,3 +6,33 @@
     corresponderem ao resultado oficial. (Observação: não é necessário procurar por ternos
     e quadras, apenas por quinas.)
 */
+
+function compararAposta(resultadoOficial, aposta) {
+    for (let i = 0; i < resultadoOficial.length; i++) {
+        if (resultadoOficial[i] !== aposta[i]) {
+            return false;  
+        }
+    }
+    return true;      
+}
+
+let resultadoOficial = [10, 20, 30, 40, 50]; 
+
+let apostas = [
+    [10, 20, 30, 40, 50],
+   
+];
+
+let ganhou = false;
+for (let i = 0; i < apostas.length; i++) {
+    if (compararAposta(resultadoOficial, apostas[i])) {
+        ganhou = true;
+        break;
+    }
+}
+
+if (ganhou) {
+    console.log("Ganhador");
+} else {
+    console.log("Não houve ganhador");
+}
