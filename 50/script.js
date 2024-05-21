@@ -33,3 +33,85 @@
         ○ Permitir que o usuário avalie o hotel após a estadia, e armazenar essas
         avaliações dentro do objeto do hotel.
 */
+
+
+let hoteis = [];
+let reservas = [];
+let proximoIdReserva = 1;
+
+function adicionarHotel(id, nome, cidade, quartosTotais) {
+    let hotel = { id, nome, cidade, quartosTotais, quartosDisponiveis: quartosTotais };
+    hoteis.push(hotel);
+}
+
+function buscarHoteisPorCidade(cidade) {
+    return hoteis.filter(hotel => hotel.cidade === cidade && hotel.quartosDisponiveis > 0);
+}
+
+function fazerReserva(idHotel, nomeCliente) {
+    let hotel = hoteis.find(hotel => hotel.id === idHotel);
+    if (hotel && hotel.quartosDisponiveis > 0) {
+        let reserva = { idReserva: proximoIdReserva++, idHotel, nomeCliente };
+        reservas.push(reserva);
+        hotel.quartosDisponiveis--;
+        return reserva;
+    }
+    return null;
+}
+
+function cancelarReserva(idReserva) {
+    let reservaIndex = reservas.findIndex(reserva => reserva.idReserva === idReserva);
+    if (reservaIndex !== -1) {
+        let reserva = reservas[reservaIndex];
+        let hotel = hoteis.find(hotel => hotel.id === reserva.idHotel);
+        if (hotel) {
+            hotel.quartosDisponiveis++;
+        }
+        reservas.splice(reservaIndex, 1);
+        return true;
+    }
+    return false; 
+}
+
+function listarReservas() {
+    return reservas.map(reserva => {
+        let hotel = hoteis.find(hotel => hotel.id === reserva.idHotel);
+        return { idReserva: reserva.idReserva, hotel: hotel.nome, cidade: hotel.cidade, nomeCliente: reserva.nomeCliente };
+    });
+}
+
+adicionarHotel(1, "Hotel A", "Cidade A", 10);
+adicionarHotel(2, "Hotel B", "Cidade B", 20);
+
+let opcao = prompt("Escolha uma opção:\n1. Fazer Reserva\n2. Cancelar Reserva\n3. Listar Reservas");
+
+switch (opcao) {
+    case "1":
+        let idHotelReserva = parseInt(prompt("Digite o ID do hotel para reserva:"));
+        let nomeClienteReserva = prompt("Digite seu nome para a reserva:");
+        let reservaFeita = fazerReserva(idHotelReserva, nomeClienteReserva);
+        if (reservaFeita) {
+            alert("Reserva feita com sucesso! ID da reserva: " + reservaFeita.idReserva);
+        } else {
+            alert("Não foi possível fazer a reserva. Verifique a disponibilidade de quartos.");
+        }
+        break;
+    case "2":
+        let idReservaCancelamento = parseInt(prompt("Digite o ID da reserva para cancelamento:"));
+        if (cancelarReserva(idReservaCancelamento)) {
+            alert("Reserva cancelada com sucesso!");
+        } else {
+            alert("Reserva não encontrada. Verifique o ID digitado.");
+        }
+        break;
+    case "3":
+        let listaDeReservas = listarReservas();
+        if (listaDeReservas.length > 0) {
+            alert("Lista de Reservas:\n" + JSON.stringify(listaDeReservas, null, 2));
+        } else {
+            alert("Não há reservas no momento.");
+        }
+        break;
+    default:
+        alert("Opção inválida. Escolha uma opção válida.");
+}
